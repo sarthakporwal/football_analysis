@@ -17,4 +17,6 @@ input_videos/
 models/
 training/
 
+__pycache__/
+*.pyc
 
